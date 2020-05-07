@@ -9,7 +9,7 @@ namespace Grafic
             Triangle triangle;
             Rectangle rectangle;
             Square square;
-            int counter = 0;
+            int counter = 10;
             int counter1 = 0;
             while(counter != 1)
             {
